@@ -1,8 +1,8 @@
 
 
-![This is me](https://github.com/DitecnoDigital/Space-Invaders/blob/main/Miniatura.png)
+![This is me](https://github.com/DitecnoDigital/Juego2048/blob/main/Portada2048.png)
 
-# Juego-2048
+# Juego "2048"
 Tutorial sobre como realizar  juego "2048" en lenguaje C++ donde puedes ver el paso a paso en:
 
 ### ⭐️Youtube:
